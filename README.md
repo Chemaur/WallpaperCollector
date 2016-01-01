@@ -15,11 +15,16 @@ Check/give execution permissions: recomended **chmod u+x WallpaperCollector.sh**
 
 Launch from console **./WallpaperCollector.sh**
 
+Set the random wallpaper source folder in **~/Pictures/Fondos/_Todos** so, all the files rotates.
+
+Relaunch the script at will.
+
 ### Notes
 
 The script assumes that **~/Pictures/Fondos** exists.
 
-The script is provided as it is. No waranties for the usage.
+The script is provided as it is.
+No waranties for the usage.
 Launch it at your own risk.
 
 
